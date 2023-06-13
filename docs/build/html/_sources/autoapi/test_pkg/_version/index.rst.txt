@@ -1,8 +1,0 @@
-:orphan:
-
-:py:mod:`test_pkg._version`
-===========================
-
-.. py:module:: test_pkg._version
-
-
