@@ -1,5 +1,8 @@
 # AutoAPI Unknown Type Placeholder Bug
 
+> **Warning**
+> A newer more simple example repository is found in https://github.com/rickstaa/unknown_type_placeholder_bug/blob/main/README.md.
+
 This is a simple example repository to demonstrate the `WARNING: Unknown type: placeholder` bug that is thrown in
 AutoAPI when using it within a ROS package (see https://github.com/readthedocs/sphinx-autoapi/issues/180).
 
